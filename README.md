@@ -14,5 +14,4 @@
 
 Change DVMT pre allocated size to 64MB or above to support 4K display.
  
- ## Known issue
- Audio can not auto switch between internal speaker and front 3.5mm jack.
+Thanks @telus2009 the headphone auto-switching and HDMI audio is fixed.
