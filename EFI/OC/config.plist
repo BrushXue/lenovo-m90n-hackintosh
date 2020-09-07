@@ -126,9 +126,13 @@
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
 				<key>AAPL,ig-platform-id</key>
+<<<<<<< HEAD
 				<data>
 				BwCbPg==
 				</data>
+=======
+				<data>AACbPg==</data>
+>>>>>>> 7ea949c560cc2b2bb4e590bd1288084e9261ac12
 				<key>AAPL,slot-name</key>
 				<string>Internal@0,2,0</string>
 				<key>device-id</key>
@@ -471,7 +475,13 @@
 				Rg==
 				</data>
 				<key>boot-args</key>
+<<<<<<< HEAD
 				<string>igfxonln=1 alcid=11</string>
+=======
+				<string>alcid=11</string>
+				<key>run-efi-updater</key>
+				<string>No</string>
+>>>>>>> 7ea949c560cc2b2bb4e590bd1288084e9261ac12
 				<key>csr-active-config</key>
 				<data>
 				AAAAAA==
