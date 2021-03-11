@@ -1,6 +1,6 @@
 # Another Hackintosh for Lenovo ThinkCentre M90n-1
 
-Tested with Big Sur 11.0
+Tested with Big Sur 11.2.2
 
 ## Spec
 
